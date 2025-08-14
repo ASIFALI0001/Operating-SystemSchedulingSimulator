@@ -1,16 +1,61 @@
-# CPUScheduler
-Website link : https://bit.ly/3DWKMV6  or  https://ravipatel1309.github.io/CPUScheduler/
+<h1 align="center">💻 Operating System Scheduling Simulator</h1>
 
-#FCFS #SJF #RoundRobin #SRTF #Priority
-#CPU Scheduling Algorithm
+<p align="center">
+An interactive web-based platform to visualize and compare various CPU Scheduling Algorithms.<br>
+Designed for students, educators, and professionals to understand scheduling concepts with real-time simulations.
+</p>
 
-The Simulation Website of CPU Scheduling Algorithm is an interactive platform designed to simulate various CPU scheduling algorithms, including First Come First Serve (FCFS), Shortest Job First (SJF), Round Robin (RR), Shortest Remaining Time First (SRTF), Priority, and other popular algorithms.
+---
 
-The website provides a user-friendly interface where users can input their own data, including the number of processes, arrival time, burst time, priority, and time quantum. The website then visualizes the scheduling process and displays the results in real-time, providing a clear understanding of how the algorithm works and how it affects system performance.
+<h2 align="center">📌 Features</h2>
 
-This simulation website is an excellent tool for students, educators, and professionals who are interested in learning about CPU scheduling algorithms and their practical applications. It provides a hands-on learning experience that allows users to experiment with different scheduling algorithms and understand their impact on system performance.
+<p align="center">
+• Simulates popular CPU scheduling algorithms: <b>FCFS, SJF, SRTF, Round Robin, Priority</b><br>
+• User-friendly interface with real-time visualizations<br>
+• Custom input: processes, arrival time, burst time, priority, time quantum<br>
+• Displays performance metrics: turnaround time, waiting time, CPU utilization<br>
+• Helps in learning through experimentation and comparison
+</p>
 
-The code for this simulation website is available on GitHub, and can be easily modified and adapted to suit specific needs and requirements. It is designed to be user-friendly, customizable, and accessible to users with different levels of programming experience.
+---
 
+<h2 align="center">🚀 Live Demo</h2>
 
+<p align="center">
+🔗 <a href="https://operating-system-scheduling-simulat.vercel.app/">Visit the Simulation Website</a>
+</p>
 
+---
+
+<h2 align="center">🛠 How It Works</h2>
+
+<p align="center">
+1️⃣ Choose an algorithm from the list<br>
+2️⃣ Enter process details (arrival time, burst time, priority, quantum)<br>
+3️⃣ Start the simulation to visualize execution order<br>
+4️⃣ View detailed performance metrics in real-time
+</p>
+
+---
+
+<h2 align="center">📂 Technologies Used</h2>
+
+<p align="center">
+HTML • CSS • JavaScript • Algorithms & Data Structures
+</p>
+
+---
+
+<h2 align="center">🎯 Purpose</h2>
+
+<p align="center">
+This project serves as a hands-on educational tool to enhance understanding of CPU scheduling algorithms and their effect on system performance.
+</p>
+
+---
+
+<h2 align="center">📜 License</h2>
+
+<p align="center">
+This project is open-source and available under the MIT License.
+</p>
